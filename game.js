@@ -3027,8 +3027,6 @@ class Game {
     }
 
     drawControls() {
-        return; // 非表示の仮想コントローラーとして動作させるため描画をスキップ
-
         this.ctx.save();
         
         const drawBtn = (btn, activeColor, textColor = '#fff') => {
@@ -3053,7 +3051,8 @@ class Game {
             this.ctx.restore();
         };
 
-        // 仮想パッド
+        // 仮想パッド（非表示のまま機能させる）
+        /*
         const pad = this.controls.pad;
         this.ctx.fillStyle = 'rgba(35, 45, 65, 0.25)';
         this.ctx.strokeStyle = 'rgba(55, 70, 95, 0.5)';
@@ -3069,6 +3068,7 @@ class Game {
         this.ctx.beginPath();
         this.ctx.arc(stickX, stickY, 13, 0, Math.PI * 2);
         this.ctx.fill();
+        */
 
         // ボタン類
         drawBtn(this.controls.btnAttack, '#ffd700');
