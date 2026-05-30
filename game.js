@@ -210,7 +210,7 @@ class AssetManager {
     async load(onProgress, onLoad) {
         try {
             onProgress(8);
-            const response = await fetch('heheokun_slices/sprites.json');
+            const response = await fetch('sprites.json');
             this.spriteData = await response.json();
             this.spriteData.frames = {
                 ...HEHEOKUN_FRAME_FALLBACKS,
@@ -222,7 +222,7 @@ class AssetManager {
         }
 
         const imageTasks = [
-            this.loadImageElement('heheokun_slices/heheokun.png', (img) => {
+            this.loadImageElement('heheokun.png', (img) => {
                 this.spriteSheet = img;
             }),
             ...Object.entries(this.imageSources).map(([key, src]) => {
