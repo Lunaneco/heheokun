@@ -2205,6 +2205,16 @@ class Game {
         document.getElementById('title-screen').addEventListener('click', () => {
             if (this.gameState === 'TITLE') {
                 sounds.init();
+
+                // スマホ用フルスクリーン＆横向き強制
+                if (document.documentElement.requestFullscreen) {
+                    document.documentElement.requestFullscreen().then(() => {
+                        if (screen.orientation && screen.orientation.lock) {
+                            screen.orientation.lock("landscape").catch(e => console.log(e));
+                        }
+                    }).catch(e => console.log(e));
+                }
+
                 this.initGame();
             }
         });
