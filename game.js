@@ -2235,25 +2235,27 @@ class Game {
             const clickX = (clientX - rect.left) / rect.width * 640;
             const clickY = (clientY - rect.top) / rect.height * 360;
 
+            let buttonHit = false;
             if (this.checkDistance(clickX, clickY, this.controls.btnAttack) < this.controls.btnAttack.r) {
-                input.buttons.attack = true;
+                input.buttons.attack = true; buttonHit = true;
             }
             else if (this.checkDistance(clickX, clickY, this.controls.btnCoin) < this.controls.btnCoin.r) {
-                input.buttons.coin = true;
+                input.buttons.coin = true; buttonHit = true;
             }
             else if (this.checkDistance(clickX, clickY, this.controls.btnMeasure) < this.controls.btnMeasure.r) {
-                input.buttons.measure = true;
+                input.buttons.measure = true; buttonHit = true;
             }
             else if (this.checkDistance(clickX, clickY, this.controls.btnDodge) < this.controls.btnDodge.r) {
-                input.buttons.dodge = true;
+                input.buttons.dodge = true; buttonHit = true;
             }
             else if (this.checkDistance(clickX, clickY, this.controls.btnRev) < this.controls.btnRev.r) {
-                input.buttons.revolution = true;
+                input.buttons.revolution = true; buttonHit = true;
             }
             
-            const padDist = this.checkDistance(clickX, clickY, this.controls.pad);
-            if (padDist < this.controls.pad.r + 20) {
+            if (!buttonHit) {
+                // アクションボタン以外をタッチした場合は、スワイプ移動の起点とする
                 input.touchActive = true;
+                input.padOrigin = { x: clickX, y: clickY };
                 this.updatePadVector(clickX, clickY);
             }
         };
@@ -2294,8 +2296,9 @@ class Game {
     }
 
     updatePadVector(clickX, clickY) {
-        const dx = clickX - this.controls.pad.x;
-        const dy = clickY - this.controls.pad.y;
+        if (!input.padOrigin) return;
+        const dx = clickX - input.padOrigin.x;
+        const dy = clickY - input.padOrigin.y;
         const dist = Math.sqrt(dx * dx + dy * dy);
 
         if (dist < 5) {

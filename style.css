@@ -45,6 +45,7 @@ body {
     box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.95);
     margin-top: auto;
     margin-bottom: auto;
+    container-type: size;
 }
 
 /* 画面内のゲームキャンバス */
@@ -271,10 +272,10 @@ body {
     width: 100%;
     height: 100%;
     display: grid;
-    grid-template-columns: minmax(150px, 34%) minmax(0, 1fr);
-    gap: 18px;
+    grid-template-columns: minmax(15cqw, 34%) minmax(0, 1fr);
+    gap: 3cqw;
     align-items: center;
-    padding: 18px 28px;
+    padding: 3cqh 4cqw;
     background:
         linear-gradient(90deg, rgba(0, 0, 0, 0.2), rgba(6, 8, 12, 0.88) 42%, rgba(6, 8, 12, 0.96)),
         radial-gradient(circle at 23% 47%, rgba(255, 45, 85, 0.18), transparent 44%);
@@ -291,7 +292,7 @@ body {
 .clear-cover-image {
     display: block;
     max-width: 100%;
-    max-height: 318px;
+    max-height: 85cqh;
     object-fit: contain;
     border: 2px solid rgba(255, 215, 0, 0.75);
     box-shadow:
@@ -306,10 +307,10 @@ body {
 }
 
 .clear-content-landscape h2 {
-    font-size: 2.05rem;
+    font-size: 9cqh;
     color: #4cd964;
     text-shadow: 0 0 15px rgba(76, 217, 100, 0.6);
-    margin-bottom: 14px;
+    margin-bottom: 4cqh;
     letter-spacing: 3px;
 }
 
@@ -317,26 +318,26 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 14px;
-    margin-bottom: 18px;
+    gap: 2cqw;
+    margin-bottom: 4cqh;
 }
 
 .stats-list {
     background-color: rgba(30, 34, 43, 0.7);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 8px;
-    padding: 13px 16px;
+    padding: 3cqh 3cqw;
     width: 58%;
-    font-size: 0.8rem;
+    font-size: 4cqh;
     text-align: left;
 }
 
 .stat-row {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 10px;
+    margin-bottom: 2.5cqh;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-    padding-bottom: 5px;
+    padding-bottom: 1.5cqh;
 }
 
 .stat-row:last-child {
@@ -353,9 +354,9 @@ body {
     background-color: rgba(30, 34, 43, 0.7);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 8px;
-    padding: 16px;
+    padding: 3cqh;
     width: 38%;
-    height: 116px;
+    height: 32cqh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -363,13 +364,13 @@ body {
 }
 
 .rank-label {
-    font-size: 0.8rem;
+    font-size: 4cqh;
     color: #a0aec0;
-    margin-bottom: 5px;
+    margin-bottom: 1.5cqh;
 }
 
 #stat-rank {
-    font-size: 2.8rem;
+    font-size: 12cqh;
     font-weight: bold;
 }
 
@@ -390,7 +391,7 @@ body {
 
 .rank-danger {
     color: #ff3b30;
-    font-size: 1.85rem !important;
+    font-size: 8cqh !important;
     text-shadow: 0 0 16px rgba(255, 59, 48, 0.72);
 }
 
@@ -405,11 +406,11 @@ body {
     border: none;
     outline: none;
     color: #fff;
-    padding: 16px 36px;
-    font-size: 1.2rem;
+    padding: 4cqh 6cqw;
+    font-size: 5cqh;
     font-family: 'DotGothic16', sans-serif;
     font-weight: bold;
-    border-radius: 8px;
+    border-radius: 2cqh;
     cursor: pointer;
     box-shadow: 0 4px 15px rgba(255, 59, 48, 0.4);
     transition: transform 0.1s, box-shadow 0.2s;
