@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>へへおくん - 血圧真拳アクション (横スクロール版)</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=DotGothic16&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="game-container">
+        <!-- スマホ風のベゼル外枠（横持ち仕様） -->
+        <div class="phone-frame-landscape">
+            <div class="phone-speaker-landscape"></div>
+            
+            <div class="screen-wrapper">
+                <!-- ロード画面 -->
+                <div id="loading-screen" class="screen-overlay">
+                    <div class="loading-content">
+                        <h1 class="game-title-text">へへおくん</h1>
+                        <div class="heart-rate">
+                            <svg viewBox="0 0 100 50" class="pulse-svg">
+                                <path d="M0,25 L30,25 L40,5 L50,45 L58,20 L65,30 L70,25 L100,25" fill="none" stroke="#ff3b30" stroke-width="3"></path>
+                            </svg>
+                        </div>
+                        <div class="loading-bar-container">
+                            <div id="loading-bar" class="loading-bar"></div>
+                        </div>
+                        <div class="loading-text">血圧測定中...</div>
+                    </div>
+                </div>
+
+                <!-- ゲームオーバー画面 -->
+                <div id="gameover-screen" class="screen-overlay hidden">
+                    <div class="gameover-content-landscape">
+                        <div class="gameover-left">
+                            <h2>GAME OVER</h2>
+                            <p class="cause">血圧、限界突破。</p>
+                            <button id="retry-btn" class="menu-btn">再測定 (リトライ)</button>
+                        </div>
+                        <div class="gameover-right">
+                            <p class="quote">「ただしギャンブルー<br>テメーはだめだ」</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ステージクリア画面 -->
+                <div id="clear-screen" class="screen-overlay hidden">
+                    <div class="clear-content-landscape">
+                        <div class="clear-cover-wrap">
+                            <img src="clear.png" alt="へへおくん ウィファイオ コミック表紙" class="clear-cover-image">
+                        </div>
+                        <div class="clear-result-panel">
+                            <h2>STAGE CLEAR</h2>
+                            <div class="stats-container">
+                                <div class="stats-list">
+                                    <div class="stat-row"><span>撃破数</span><span id="stat-enemies">0</span></div>
+                                    <div class="stat-row"><span>コイン使用</span><span id="stat-coins">0</span></div>
+                                    <div class="stat-row"><span>最高血圧(SYS)</span><span id="stat-max-sys">0</span></div>
+                                    <div class="stat-row"><span>測定回数</span><span id="stat-measures">0</span></div>
+                                </div>
+                                <div class="rank-container">
+                                    <div class="rank-label">評価ランク</div>
+                                    <div id="stat-rank" class="rank-s">S</div>
+                                </div>
+                            </div>
+                            <button id="next-btn" class="menu-btn">次のステージへ</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- タイトル画面 -->
+                <div id="title-screen" class="screen-overlay">
+                    <div class="title-content-landscape">
+                        <div class="title-left">
+                            <div class="title-logo-container">
+                                <span class="title-sub">血圧真拳継承者</span>
+                                <h1 class="title-main">へへおくん</h1>
+                            </div>
+                            <div class="title-prompt">画面をタップして開始</div>
+                        </div>
+                        <div class="title-right">
+                            <div class="title-instruction">
+                                <p class="instruction-title">【キーボード操作】</p>
+                                <p>移動: WASD / 矢印キー</p>
+                                <p>通常攻撃: J | コイン投げ: K</p>
+                                <p>血圧測定: L (長押し) | 回避: I</p>
+                                <p>血圧革命(必殺技): Space</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ゲームCanvas (横画面 640x360) -->
+                <canvas id="game-canvas" width="640" height="360"></canvas>
+            </div>
+            
+            <div class="phone-home-button-landscape"></div>
+        </div>
+    </div>
+
+    <script src="game.js?v=20260530-16"></script>
+</body>
+</html>

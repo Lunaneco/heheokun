@@ -1,0 +1,2675 @@
+{
+  "meta": {
+    "image": "heheokun.png",
+    "size": {
+      "w": 1122,
+      "h": 1402
+    }
+  },
+  "frames": {
+    "heheokun_1": {
+      "frame": {
+        "x": 0,
+        "y": 9,
+        "w": 272,
+        "h": 200
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 272,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 272,
+        "h": 200
+      }
+    },
+    "heheokun_15": {
+      "frame": {
+        "x": 744,
+        "y": 76,
+        "w": 85,
+        "h": 99
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 99
+      }
+    },
+    "heheokun_16": {
+      "frame": {
+        "x": 872,
+        "y": 77,
+        "w": 228,
+        "h": 122
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 228,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 228,
+        "h": 122
+      }
+    },
+    "heheokun_18": {
+      "frame": {
+        "x": 109,
+        "y": 222,
+        "w": 77,
+        "h": 106
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 106
+      }
+    },
+    "heheokun_19": {
+      "frame": {
+        "x": 205,
+        "y": 223,
+        "w": 63,
+        "h": 104
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 104
+      }
+    },
+    "heheokun_20": {
+      "frame": {
+        "x": 299,
+        "y": 223,
+        "w": 53,
+        "h": 104
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 104
+      }
+    },
+    "heheokun_21": {
+      "frame": {
+        "x": 375,
+        "y": 224,
+        "w": 76,
+        "h": 104
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 104
+      }
+    },
+    "heheokun_22": {
+      "frame": {
+        "x": 579,
+        "y": 225,
+        "w": 69,
+        "h": 101
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 101
+      }
+    },
+    "heheokun_23": {
+      "frame": {
+        "x": 740,
+        "y": 225,
+        "w": 73,
+        "h": 101
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 101
+      }
+    },
+    "heheokun_24": {
+      "frame": {
+        "x": 829,
+        "y": 225,
+        "w": 69,
+        "h": 101
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 101
+      }
+    },
+    "heheokun_25": {
+      "frame": {
+        "x": 912,
+        "y": 225,
+        "w": 78,
+        "h": 101
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 101
+      }
+    },
+    "heheokun_26": {
+      "frame": {
+        "x": 1005,
+        "y": 225,
+        "w": 70,
+        "h": 101
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 101
+      }
+    },
+    "heheokun_27": {
+      "frame": {
+        "x": 493,
+        "y": 232,
+        "w": 76,
+        "h": 94
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 94
+      }
+    },
+    "heheokun_28": {
+      "frame": {
+        "x": 660,
+        "y": 230,
+        "w": 62,
+        "h": 96
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 96
+      }
+    },
+    "heheokun_30": {
+      "frame": {
+        "x": 100,
+        "y": 347,
+        "w": 76,
+        "h": 88
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 88
+      }
+    },
+    "heheokun_31": {
+      "frame": {
+        "x": 197,
+        "y": 348,
+        "w": 76,
+        "h": 87
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 87
+      }
+    },
+    "heheokun_32": {
+      "frame": {
+        "x": 293,
+        "y": 348,
+        "w": 74,
+        "h": 85
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 85
+      }
+    },
+    "heheokun_33": {
+      "frame": {
+        "x": 387,
+        "y": 349,
+        "w": 75,
+        "h": 84
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 84
+      }
+    },
+    "heheokun_34": {
+      "frame": {
+        "x": 493,
+        "y": 351,
+        "w": 75,
+        "h": 83
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 83
+      }
+    },
+    "heheokun_35": {
+      "frame": {
+        "x": 594,
+        "y": 351,
+        "w": 78,
+        "h": 84
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 84
+      }
+    },
+    "heheokun_36": {
+      "frame": {
+        "x": 690,
+        "y": 348,
+        "w": 79,
+        "h": 85
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 85
+      }
+    },
+    "heheokun_37": {
+      "frame": {
+        "x": 792,
+        "y": 349,
+        "w": 75,
+        "h": 84
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 84
+      }
+    },
+    "heheokun_38": {
+      "frame": {
+        "x": 891,
+        "y": 348,
+        "w": 73,
+        "h": 85
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 85
+      }
+    },
+    "heheokun_39": {
+      "frame": {
+        "x": 990,
+        "y": 348,
+        "w": 67,
+        "h": 85
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 85
+      }
+    },
+    "heheokun_42": {
+      "frame": {
+        "x": 417,
+        "y": 447,
+        "w": 89,
+        "h": 86
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 86
+      }
+    },
+    "heheokun_43": {
+      "frame": {
+        "x": 120,
+        "y": 455,
+        "w": 78,
+        "h": 78
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 78
+      }
+    },
+    "heheokun_44": {
+      "frame": {
+        "x": 216,
+        "y": 451,
+        "w": 77,
+        "h": 82
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 82
+      }
+    },
+    "heheokun_45": {
+      "frame": {
+        "x": 313,
+        "y": 454,
+        "w": 81,
+        "h": 79
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 81,
+        "h": 79
+      }
+    },
+    "heheokun_46": {
+      "frame": {
+        "x": 517,
+        "y": 453,
+        "w": 90,
+        "h": 80
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 80
+      }
+    },
+    "heheokun_47": {
+      "frame": {
+        "x": 623,
+        "y": 456,
+        "w": 105,
+        "h": 77
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 77
+      }
+    },
+    "heheokun_48": {
+      "frame": {
+        "x": 906,
+        "y": 454,
+        "w": 104,
+        "h": 79
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 79
+      }
+    },
+    "heheokun_49": {
+      "frame": {
+        "x": 937,
+        "y": 528,
+        "w": 173,
+        "h": 140
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 140
+      }
+    },
+    "heheokun_51": {
+      "frame": {
+        "x": 780,
+        "y": 541,
+        "w": 151,
+        "h": 103
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 103
+      }
+    },
+    "heheokun_52": {
+      "frame": {
+        "x": 169,
+        "y": 546,
+        "w": 108,
+        "h": 98
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 98
+      }
+    },
+    "heheokun_53": {
+      "frame": {
+        "x": 285,
+        "y": 553,
+        "w": 101,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 91
+      }
+    },
+    "heheokun_54": {
+      "frame": {
+        "x": 497,
+        "y": 549,
+        "w": 82,
+        "h": 95
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 95
+      }
+    },
+    "heheokun_55": {
+      "frame": {
+        "x": 577,
+        "y": 552,
+        "w": 59,
+        "h": 84
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 84
+      }
+    },
+    "heheokun_56": {
+      "frame": {
+        "x": 687,
+        "y": 548,
+        "w": 28,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 37
+      }
+    },
+    "heheokun_57": {
+      "frame": {
+        "x": 395,
+        "y": 556,
+        "w": 93,
+        "h": 88
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 88
+      }
+    },
+    "heheokun_58": {
+      "frame": {
+        "x": 83,
+        "y": 564,
+        "w": 78,
+        "h": 79
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 79
+      }
+    },
+    "heheokun_59": {
+      "frame": {
+        "x": 634,
+        "y": 562,
+        "w": 141,
+        "h": 81
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 141,
+        "h": 81
+      }
+    },
+    "heheokun_60": {
+      "frame": {
+        "x": 208,
+        "y": 650,
+        "w": 70,
+        "h": 86
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 86
+      }
+    },
+    "heheokun_61": {
+      "frame": {
+        "x": 296,
+        "y": 658,
+        "w": 74,
+        "h": 77
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 77
+      }
+    },
+    "heheokun_62": {
+      "frame": {
+        "x": 103,
+        "y": 663,
+        "w": 86,
+        "h": 73
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 73
+      }
+    },
+    "heheokun_63": {
+      "frame": {
+        "x": 397,
+        "y": 659,
+        "w": 76,
+        "h": 76
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 76
+      }
+    },
+    "heheokun_64": {
+      "frame": {
+        "x": 606,
+        "y": 658,
+        "w": 72,
+        "h": 77
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 77
+      }
+    },
+    "heheokun_66": {
+      "frame": {
+        "x": 495,
+        "y": 664,
+        "w": 87,
+        "h": 72
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 72
+      }
+    },
+    "heheokun_67": {
+      "frame": {
+        "x": 693,
+        "y": 682,
+        "w": 104,
+        "h": 55
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 55
+      }
+    },
+    "heheokun_68": {
+      "frame": {
+        "x": 817,
+        "y": 690,
+        "w": 108,
+        "h": 46
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 46
+      }
+    },
+    "heheokun_69": {
+      "frame": {
+        "x": 943,
+        "y": 702,
+        "w": 139,
+        "h": 36
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 139,
+        "h": 36
+      }
+    },
+    "heheokun_70": {
+      "frame": {
+        "x": 6,
+        "y": 745,
+        "w": 181,
+        "h": 107
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 181,
+        "h": 107
+      }
+    },
+    "heheokun_71": {
+      "frame": {
+        "x": 417,
+        "y": 748,
+        "w": 69,
+        "h": 104
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 104
+      }
+    },
+    "heheokun_72": {
+      "frame": {
+        "x": 218,
+        "y": 753,
+        "w": 75,
+        "h": 99
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 99
+      }
+    },
+    "heheokun_73": {
+      "frame": {
+        "x": 308,
+        "y": 757,
+        "w": 86,
+        "h": 95
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 95
+      }
+    },
+    "heheokun_74": {
+      "frame": {
+        "x": 513,
+        "y": 753,
+        "w": 64,
+        "h": 99
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 99
+      }
+    },
+    "heheokun_75": {
+      "frame": {
+        "x": 605,
+        "y": 752,
+        "w": 67,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 100
+      }
+    },
+    "heheokun_76": {
+      "frame": {
+        "x": 778,
+        "y": 748,
+        "w": 78,
+        "h": 104
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 104
+      }
+    },
+    "heheokun_77": {
+      "frame": {
+        "x": 697,
+        "y": 753,
+        "w": 67,
+        "h": 99
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 99
+      }
+    },
+    "heheokun_78": {
+      "frame": {
+        "x": 7,
+        "y": 864,
+        "w": 85,
+        "h": 41
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 41
+      }
+    },
+    "heheokun_79": {
+      "frame": {
+        "x": 100,
+        "y": 871,
+        "w": 35,
+        "h": 36
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 36
+      }
+    },
+    "heheokun_80": {
+      "frame": {
+        "x": 152,
+        "y": 871,
+        "w": 34,
+        "h": 36
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 36
+      }
+    },
+    "heheokun_81": {
+      "frame": {
+        "x": 204,
+        "y": 871,
+        "w": 35,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      }
+    },
+    "heheokun_82": {
+      "frame": {
+        "x": 256,
+        "y": 871,
+        "w": 35,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      }
+    },
+    "heheokun_83": {
+      "frame": {
+        "x": 306,
+        "y": 871,
+        "w": 35,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      }
+    },
+    "heheokun_84": {
+      "frame": {
+        "x": 358,
+        "y": 871,
+        "w": 35,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      }
+    },
+    "heheokun_85": {
+      "frame": {
+        "x": 410,
+        "y": 871,
+        "w": 34,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 37
+      }
+    },
+    "heheokun_86": {
+      "frame": {
+        "x": 461,
+        "y": 871,
+        "w": 35,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      }
+    },
+    "heheokun_87": {
+      "frame": {
+        "x": 515,
+        "y": 872,
+        "w": 35,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 37
+      }
+    },
+    "heheokun_88": {
+      "frame": {
+        "x": 570,
+        "y": 873,
+        "w": 35,
+        "h": 36
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 36
+      }
+    },
+    "heheokun_89": {
+      "frame": {
+        "x": 624,
+        "y": 873,
+        "w": 34,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 37
+      }
+    },
+    "heheokun_90": {
+      "frame": {
+        "x": 674,
+        "y": 873,
+        "w": 29,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 37
+      }
+    },
+    "heheokun_91": {
+      "frame": {
+        "x": 722,
+        "y": 873,
+        "w": 31,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 37
+      }
+    },
+    "heheokun_92": {
+      "frame": {
+        "x": 772,
+        "y": 872,
+        "w": 31,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 38
+      }
+    },
+    "heheokun_93": {
+      "frame": {
+        "x": 818,
+        "y": 872,
+        "w": 56,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 37
+      }
+    },
+    "heheokun_94": {
+      "frame": {
+        "x": 877,
+        "y": 871,
+        "w": 46,
+        "h": 40
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 40
+      }
+    },
+    "heheokun_95": {
+      "frame": {
+        "x": 935,
+        "y": 872,
+        "w": 44,
+        "h": 39
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 39
+      }
+    },
+    "heheokun_96": {
+      "frame": {
+        "x": 990,
+        "y": 871,
+        "w": 45,
+        "h": 41
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 41
+      }
+    },
+    "heheokun_97": {
+      "frame": {
+        "x": 1047,
+        "y": 873,
+        "w": 42,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 37
+      }
+    },
+    "heheokun_98": {
+      "frame": {
+        "x": 8,
+        "y": 923,
+        "w": 161,
+        "h": 23
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 23
+      }
+    },
+    "heheokun_99": {
+      "frame": {
+        "x": 736,
+        "y": 922,
+        "w": 78,
+        "h": 79
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 79
+      }
+    },
+    "heheokun_100": {
+      "frame": {
+        "x": 682,
+        "y": 934,
+        "w": 42,
+        "h": 57
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 57
+      }
+    },
+    "heheokun_101": {
+      "frame": {
+        "x": 821,
+        "y": 930,
+        "w": 61,
+        "h": 60
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 60
+      }
+    },
+    "heheokun_102": {
+      "frame": {
+        "x": 1035,
+        "y": 927,
+        "w": 64,
+        "h": 71
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 71
+      }
+    },
+    "heheokun_103": {
+      "frame": {
+        "x": 370,
+        "y": 933,
+        "w": 69,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 58
+      }
+    },
+    "heheokun_104": {
+      "frame": {
+        "x": 444,
+        "y": 936,
+        "w": 90,
+        "h": 42
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 42
+      }
+    },
+    "heheokun_105": {
+      "frame": {
+        "x": 611,
+        "y": 934,
+        "w": 55,
+        "h": 53
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 53
+      }
+    },
+    "heheokun_106": {
+      "frame": {
+        "x": 892,
+        "y": 932,
+        "w": 70,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 64
+      }
+    },
+    "heheokun_107": {
+      "frame": {
+        "x": 304,
+        "y": 942,
+        "w": 61,
+        "h": 42
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 42
+      }
+    },
+    "heheokun_108": {
+      "frame": {
+        "x": 533,
+        "y": 940,
+        "w": 76,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 37
+      }
+    },
+    "heheokun_109": {
+      "frame": {
+        "x": 987,
+        "y": 950,
+        "w": 34,
+        "h": 41
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 41
+      }
+    },
+    "heheokun_110": {
+      "frame": {
+        "x": 60,
+        "y": 962,
+        "w": 75,
+        "h": 21
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 21
+      }
+    },
+    "heheokun_111": {
+      "frame": {
+        "x": 8,
+        "y": 1005,
+        "w": 183,
+        "h": 21
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 183,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 183,
+        "h": 21
+      }
+    },
+    "heheokun_112": {
+      "frame": {
+        "x": 1003,
+        "y": 1008,
+        "w": 101,
+        "h": 88
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 88
+      }
+    },
+    "heheokun_113": {
+      "frame": {
+        "x": 195,
+        "y": 1016,
+        "w": 71,
+        "h": 78
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 78
+      }
+    },
+    "heheokun_114": {
+      "frame": {
+        "x": 292,
+        "y": 1016,
+        "w": 71,
+        "h": 78
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 78
+      }
+    },
+    "heheokun_115": {
+      "frame": {
+        "x": 392,
+        "y": 1016,
+        "w": 71,
+        "h": 78
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 78
+      }
+    },
+    "heheokun_116": {
+      "frame": {
+        "x": 491,
+        "y": 1016,
+        "w": 70,
+        "h": 78
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 78
+      }
+    },
+    "heheokun_117": {
+      "frame": {
+        "x": 590,
+        "y": 1016,
+        "w": 68,
+        "h": 73
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 73
+      }
+    },
+    "heheokun_118": {
+      "frame": {
+        "x": 667,
+        "y": 1015,
+        "w": 105,
+        "h": 56
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 56
+      }
+    },
+    "heheokun_119": {
+      "frame": {
+        "x": 778,
+        "y": 1015,
+        "w": 105,
+        "h": 56
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 56
+      }
+    },
+    "heheokun_120": {
+      "frame": {
+        "x": 888,
+        "y": 1015,
+        "w": 106,
+        "h": 56
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 56
+      }
+    },
+    "heheokun_121": {
+      "frame": {
+        "x": 22,
+        "y": 1031,
+        "w": 146,
+        "h": 75
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 75
+      }
+    },
+    "heheokun_122": {
+      "frame": {
+        "x": 702,
+        "y": 1063,
+        "w": 25,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 22
+      }
+    },
+    "heheokun_123": {
+      "frame": {
+        "x": 816,
+        "y": 1063,
+        "w": 23,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 23,
+        "h": 22
+      }
+    },
+    "heheokun_124": {
+      "frame": {
+        "x": 925,
+        "y": 1063,
+        "w": 23,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 23,
+        "h": 22
+      }
+    },
+    "heheokun_125": {
+      "frame": {
+        "x": 917,
+        "y": 1098,
+        "w": 166,
+        "h": 84
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 84
+      }
+    },
+    "heheokun_126": {
+      "frame": {
+        "x": 135,
+        "y": 1110,
+        "w": 83,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 48
+      }
+    },
+    "heheokun_127": {
+      "frame": {
+        "x": 239,
+        "y": 1109,
+        "w": 88,
+        "h": 49
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 49
+      }
+    },
+    "heheokun_128": {
+      "frame": {
+        "x": 341,
+        "y": 1107,
+        "w": 91,
+        "h": 51
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 51
+      }
+    },
+    "heheokun_129": {
+      "frame": {
+        "x": 456,
+        "y": 1123,
+        "w": 55,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 48
+      }
+    },
+    "heheokun_130": {
+      "frame": {
+        "x": 552,
+        "y": 1122,
+        "w": 56,
+        "h": 52
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 52
+      }
+    },
+    "heheokun_131": {
+      "frame": {
+        "x": 599,
+        "y": 1119,
+        "w": 25,
+        "h": 21
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 21
+      }
+    },
+    "heheokun_132": {
+      "frame": {
+        "x": 653,
+        "y": 1121,
+        "w": 57,
+        "h": 53
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 53
+      }
+    },
+    "heheokun_133": {
+      "frame": {
+        "x": 834,
+        "y": 1118,
+        "w": 57,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 48
+      }
+    },
+    "heheokun_134": {
+      "frame": {
+        "x": 746,
+        "y": 1124,
+        "w": 60,
+        "h": 37
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 37
+      }
+    },
+    "heheokun_135": {
+      "frame": {
+        "x": 7,
+        "y": 1166,
+        "w": 216,
+        "h": 24
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 24
+      }
+    },
+    "heheokun_136": {
+      "frame": {
+        "x": 750,
+        "y": 1182,
+        "w": 194,
+        "h": 117
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 117
+      }
+    },
+    "heheokun_137": {
+      "frame": {
+        "x": 651,
+        "y": 1187,
+        "w": 92,
+        "h": 106
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 106
+      }
+    },
+    "heheokun_138": {
+      "frame": {
+        "x": 396,
+        "y": 1194,
+        "w": 93,
+        "h": 105
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 105
+      }
+    },
+    "heheokun_139": {
+      "frame": {
+        "x": 5,
+        "y": 1201,
+        "w": 97,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 90
+      }
+    },
+    "heheokun_140": {
+      "frame": {
+        "x": 109,
+        "y": 1206,
+        "w": 42,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 64
+      }
+    },
+    "heheokun_141": {
+      "frame": {
+        "x": 255,
+        "y": 1202,
+        "w": 126,
+        "h": 93
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 93
+      }
+    },
+    "heheokun_142": {
+      "frame": {
+        "x": 502,
+        "y": 1199,
+        "w": 143,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 100
+      }
+    },
+    "heheokun_143": {
+      "frame": {
+        "x": 133,
+        "y": 1207,
+        "w": 94,
+        "h": 85
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 85
+      }
+    },
+    "heheokun_144": {
+      "frame": {
+        "x": 203,
+        "y": 1216,
+        "w": 40,
+        "h": 83
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 83
+      }
+    },
+    "heheokun_145": {
+      "frame": {
+        "x": 981,
+        "y": 1226,
+        "w": 62,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 38
+      }
+    },
+    "heheokun_146": {
+      "frame": {
+        "x": 1048,
+        "y": 1231,
+        "w": 30,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 22
+      }
+    },
+    "heheokun_147": {
+      "frame": {
+        "x": 7,
+        "y": 1305,
+        "w": 121,
+        "h": 23
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 121,
+        "h": 23
+      }
+    },
+    "heheokun_148": {
+      "frame": {
+        "x": 365,
+        "y": 1325,
+        "w": 51,
+        "h": 60
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 60
+      }
+    },
+    "heheokun_149": {
+      "frame": {
+        "x": 420,
+        "y": 1322,
+        "w": 59,
+        "h": 66
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 66
+      }
+    },
+    "heheokun_150": {
+      "frame": {
+        "x": 616,
+        "y": 1321,
+        "w": 81,
+        "h": 65
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 81,
+        "h": 65
+      }
+    },
+    "heheokun_151": {
+      "frame": {
+        "x": 709,
+        "y": 1322,
+        "w": 83,
+        "h": 62
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 62
+      }
+    },
+    "heheokun_152": {
+      "frame": {
+        "x": 171,
+        "y": 1333,
+        "w": 46,
+        "h": 52
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 52
+      }
+    },
+    "heheokun_153": {
+      "frame": {
+        "x": 308,
+        "y": 1331,
+        "w": 49,
+        "h": 52
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 52
+      }
+    },
+    "heheokun_154": {
+      "frame": {
+        "x": 484,
+        "y": 1327,
+        "w": 63,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 58
+      }
+    },
+    "heheokun_155": {
+      "frame": {
+        "x": 364,
+        "y": 1333,
+        "w": 25,
+        "h": 36
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 36
+      }
+    },
+    "heheokun_156": {
+      "frame": {
+        "x": 818,
+        "y": 1333,
+        "w": 39,
+        "h": 46
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 46
+      }
+    },
+    "heheokun_157": {
+      "frame": {
+        "x": 868,
+        "y": 1331,
+        "w": 38,
+        "h": 47
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 47
+      }
+    },
+    "heheokun_158": {
+      "frame": {
+        "x": 921,
+        "y": 1329,
+        "w": 27,
+        "h": 24
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 24
+      }
+    },
+    "heheokun_159": {
+      "frame": {
+        "x": 293,
+        "y": 1337,
+        "w": 28,
+        "h": 43
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 43
+      }
+    },
+    "heheokun_160": {
+      "frame": {
+        "x": 554,
+        "y": 1336,
+        "w": 51,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 50
+      }
+    },
+    "heheokun_161": {
+      "frame": {
+        "x": 970,
+        "y": 1333,
+        "w": 48,
+        "h": 52
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 52
+      }
+    },
+    "heheokun_162": {
+      "frame": {
+        "x": 1035,
+        "y": 1332,
+        "w": 67,
+        "h": 53
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 53
+      }
+    },
+    "heheokun_163": {
+      "frame": {
+        "x": 28,
+        "y": 1342,
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      }
+    },
+    "heheokun_164": {
+      "frame": {
+        "x": 69,
+        "y": 1342,
+        "w": 46,
+        "h": 44
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 44
+      }
+    },
+    "heheokun_165": {
+      "frame": {
+        "x": 124,
+        "y": 1352,
+        "w": 36,
+        "h": 35
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 35
+      }
+    },
+    "heheokun_166": {
+      "frame": {
+        "x": 229,
+        "y": 1358,
+        "w": 22,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 22,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 22,
+        "h": 22
+      }
+    },
+    "heheokun_167": {
+      "frame": {
+        "x": 921,
+        "y": 1355,
+        "w": 29,
+        "h": 26
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 26
+      }
+    }
+  }
+}
