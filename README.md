@@ -11,7 +11,7 @@
 
 ## ローカル確認
 
-`fetch()` で `heheokun_slices/sprites.json` を読むため、ローカルでは `file://` 直開きではなく簡易サーバーで確認してください。
+`fetch()` で `sprites.json` を読むため、ローカルでは `file://` 直開きではなく簡易サーバーで確認してください。
 
 ```sh
 python3 -m http.server 8765
