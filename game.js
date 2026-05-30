@@ -2168,12 +2168,12 @@ class Game {
 
         // 横型UIに最適化した仮想パッドとボタンの座標設定
         this.controls = {
-            pad: { x: 70, y: 290, r: 35 },
-            btnAttack: { x: 485, y: 315, r: 18, label: '拳', key: 'j' },
-            btnCoin: { x: 535, y: 315, r: 18, label: 'コイン', key: 'k' },
-            btnMeasure: { x: 485, y: 265, r: 18, label: '測定', key: 'l' },
-            btnDodge: { x: 535, y: 265, r: 18, label: '回避', key: 'i' },
-            btnRev: { x: 590, y: 290, r: 20, label: '革命', key: ' ' }
+            pad: { x: 80, y: 230, r: 45 },
+            btnAttack: { x: 475, y: 260, r: 24, label: '拳', key: 'j' },
+            btnCoin: { x: 535, y: 260, r: 24, label: 'コイン', key: 'k' },
+            btnMeasure: { x: 475, y: 200, r: 24, label: '測定', key: 'l' },
+            btnDodge: { x: 535, y: 200, r: 24, label: '回避', key: 'i' },
+            btnRev: { x: 600, y: 230, r: 26, label: '革命', key: ' ' }
         };
 
         // スクロール停止・敵出現イベント (X軸トリガー)
@@ -3027,6 +3027,8 @@ class Game {
     }
 
     drawControls() {
+        return; // 非表示の仮想コントローラーとして動作させるため描画をスキップ
+
         this.ctx.save();
         
         const drawBtn = (btn, activeColor, textColor = '#fff') => {
